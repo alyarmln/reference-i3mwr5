@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alyarmln.github.io/reference-i3mwr5/sitemap.xml
